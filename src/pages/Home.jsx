@@ -5,9 +5,9 @@ export default function Home() {
             <p className="text-lg opacity-80 max-w-xl mx-auto"> 
                 Browse upcoming movies and anime titles. Discover details like genres, release dates, and more - all in one place. <br/>
                 <i> Powered by Jikan API and TMDB API. </i> <br/>
-                <i> Developed by japvdev </i>
+                <i> Developed by <a target="_blank" href="https://www.japvdevelopment.com/"> <u> japvdev </u> </a> </i> <br/>
+                <i> February 2026. </i>
             </p>
-
         </section>
     )
 }
